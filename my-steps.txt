@@ -1,0 +1,116 @@
+### Step 2A
+/c/Users/c915367
+
+
+### Step 2B
+cd /c/Users/c915367/Desktop
+
+### Step 2C
+cd \c\Users\c915367\Desktop\unit1-git-practice
+
+### Step 2D
+/c/Users/c915367/OneDrive - Exelon/Desktop
+
+
+### Step 2E
+ls 
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd \
+
+### Step 2H
+/c/Users/c915367
+
+### Step 2I
+'3D Objects'/         NTUSER.DAT                                                                                     PycharmProjects/
+ AppData/             NTUSER.DAT{911c8643-e63e-11ed-83e5-5c857e39a0d2}.TxR.0.regtrans-ms                             Recent@
+'Application Data'@   NTUSER.DAT{911c8643-e63e-11ed-83e5-5c857e39a0d2}.TxR.1.regtrans-ms                            'Saved Games'/
+ Contacts/            NTUSER.DAT{911c8643-e63e-11ed-83e5-5c857e39a0d2}.TxR.2.regtrans-ms                             Searches/
+ Cookies@             NTUSER.DAT{911c8643-e63e-11ed-83e5-5c857e39a0d2}.TxR.blf                                       SendTo@
+ Desktop/             NTUSER.DAT{911c8644-e63e-11ed-83e5-5c857e39a0d2}.TM.blf                                       'Start Menu'@
+ Documents/           NTUSER.DAT{911c8644-e63e-11ed-83e5-5c857e39a0d2}.TMContainer00000000000000000001.regtrans-ms   Templates@
+ Downloads/           NTUSER.DAT{911c8644-e63e-11ed-83e5-5c857e39a0d2}.TMContainer00000000000000000002.regtrans-ms   Videos/
+ Favorites/           NetHood@                                                                                       ntuser.dat.LOG1
+ Links/               OneDrive/                                                                                      ntuser.dat.LOG2
+'Local Settings'@    'OneDrive - Exelon'/                                                                            ntuser.ini
+ Music/               Pictures/
+'My Documents'@       PrintHood@
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd pwd
+cd dir
+cd unit1-git-practice
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+ls (confirm folders have been made) 
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins 
+
+### Step 3D
+mv meats proteinscd 
+
+### Step 3E
+cd veggies
+touch carrot.txt
+touch pea.txt
+ls (confirm file creation) 
+### Step 3F
+cd ..
+cd sweets
+pwd (confirm navigation is correct to new folder)
+touch cookies.txt
+ls (confirm new file creation) 
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins 
+
+### Step 3K
+mv thing.txt crab.txt
+cd proteins
+mv crab.txt meats
+
+### Step 3L
+rm -r thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks 
+rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
