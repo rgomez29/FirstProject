@@ -88,25 +88,40 @@ cp thing.txt tofu.txt
 mv tofu.txt proteins 
 
 ### Step 3K
-
+mv thing.txt crab.txt
+cd proteins
+mv crab.txt meats
 
 ### Step 3L
-
+rm -r thing.txt
 
 ### Step 3M
-
+cp -r veggies plants
 
 ### Step 3N
-
+mkdir drinks 
+rm -r drinks
 
 
 ### Step 4
+git init 
+git add.
+git status
+git commit -m 'first commit'
+
 
 
 ### Step 5
+git remote add origin https://github.com/rgomez29/FirstProject
+git branch -m main
+git push origin main 
 
 
 ### Step 6
+mkdir menu.txt 
+ls
+git status
+
 
 
 ### Step 7
