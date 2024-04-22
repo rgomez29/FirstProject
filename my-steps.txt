@@ -122,7 +122,11 @@ mkdir menu.txt
 ls
 git status
 
+git add . 
+git commit -m "update"
+git push 
 
+git push origin main 
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
